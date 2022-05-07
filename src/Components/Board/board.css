@@ -1,0 +1,12 @@
+.board {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 4px;
+  grid-row-gap: 4px;
+  max-width: 300px;
+  max-height: 400px;
+}
+
+.keyboard {
+  margin-top: 50px;
+}

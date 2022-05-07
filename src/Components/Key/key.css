@@ -1,0 +1,9 @@
+.letter {
+  background-color: gray;
+  padding: 10px;
+  color: white;
+  font-weight: 500;
+  border-radius: 2px;
+  margin: 4px;
+  cursor: pointer;
+}
